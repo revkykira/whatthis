@@ -1,1 +1,1 @@
-pm2 start index.js
+app worker : pm2 start index.js
